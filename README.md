@@ -1,7 +1,7 @@
 # Act.10-pag_principal
 pagina principal
 
-<img width="308" height="517" alt="image" src="https://github.com/user-attachments/assets/ef1b1288-6cfc-451b-a855-62dd96084b8e" />
+<img width="493" height="839" alt="image" src="https://github.com/user-attachments/assets/45e86796-7b37-48b0-8dc2-10bf80d5f05f" />
 
-<img width="1231" height="744" alt="image" src="https://github.com/user-attachments/assets/63a9c49f-ccde-4c91-9b15-6d2b861024aa" />
+<img width="1227" height="797" alt="image" src="https://github.com/user-attachments/assets/42cc9b23-68ce-45a8-ae34-ac9454fbe6ac" />
 
